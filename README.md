@@ -31,23 +31,24 @@
 
  ## * Customer dimension table : 
 
-   * 74 customers with total of 209 stores spread across 27 markets/countries.
-   * 2 platforms - Brick and Mortar, and E-Commmerce
-   * 3 Channels - Retailer, Direct, and Distributors.
+   *  74 customers with total of 209 stores spread across 27 markets/countries.
+   *  2 platforms - Brick and Mortar, and E-Commmerce
+   *  3 Channels - Retailer, Direct, and Distributors.
 
  ## * Market dimension table :
 
-    * 27 markets spread across 7 sub-zones in 4 broad regions, that are : APAC(Asia Pacific), EU(European Union), NA(North America), LATAM(Latin America)
+    *  27 markets spread across 7 sub-zones in 4 broad regions, that are : APAC(Asia Pacific), EU(European Union), NA(North America), LATAM(Latin America)
 
  ##   * Product dimension table :
 
-    *  3 divisions : Networking and Storage (N & S), Peripherals and Accessories (P & A), PC.
-    *  6 segments & 14 Categories of products.
+    *   3 divisions : Networking and Storage (N & S), Peripherals and Accessories (P & A), PC.
+
+    *   6 segments & 14 Categories of products.
 
 ##   * Fact tables :
 
-    * Fact sales monthly : sales values for products. 
-    * Fact forecast monthly : forecast values for products.
+    *  Fact sales monthly : sales values for products. 
+    *  Fact forecast monthly : forecast values for products.
 
 # Data Modelling and Relationships :
 Data modeling is the process of structuring and organizing data to create relationships, and establish a framework for effective data analysis and reporting. It ensures data accuracy, facilitates complex calculations, and enhances data integration, providing a solid foundation for informed decision-making and business intelligence.
